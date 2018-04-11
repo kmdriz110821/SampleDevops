@@ -6,7 +6,6 @@
 
     <StackLayout>
 
-        <Button Text="Hello"/>
-    </StackLayout>
+        <But
 
 </ContentPage>
