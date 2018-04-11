@@ -4,8 +4,9 @@
              xmlns:local="clr-namespace:SampleDevops"
              x:Class="SampleDevops.MainPage">
 
-	<Label Text="Welcome to Xamarin.Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <StackLayout>
+
+        <Button Text="Hello"/>
+    </StackLayout>
 
 </ContentPage>
